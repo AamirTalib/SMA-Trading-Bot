@@ -1,4 +1,4 @@
-# 🧠 SMA Trading Bot (Alpaca Paper)
+# 🧠 SMA Trading Bot (Using Alpaca Paper Trading)
 
 A simple automated trading bot that:
 - Pulls **1-minute bar data** from the Alpaca Paper Trading API  
