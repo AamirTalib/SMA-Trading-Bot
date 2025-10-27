@@ -15,3 +15,7 @@ A simple automated trading bot that:
 > - Trade & PnL CSV logging  
 > - Environment variable security via `.env`  
 
+### 🔒 Environment Variables
+This project uses a `.env` file to securely store private API credentials (e.g., `APCA_API_KEY_ID`, `APCA_API_SECRET_KEY`).  
+Never commit this file to GitHub — it's automatically excluded via `.gitignore`.  
+To run the bot locally, create your own `.env` file in the project root and add your personal Alpaca keys:
